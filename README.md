@@ -11,6 +11,8 @@ Kaynaklarım:
 
 
 https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877
+
 https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+
 https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Python3_Baslangic.md#top
 
