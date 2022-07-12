@@ -20,4 +20,5 @@ https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBV
 https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Python3_Baslangic.md#top
 
 
+
 Youtube kanalım: https://www.youtube.com/channel/UCPN1FbcaizQGyb7Bfn7VY4g/featured
