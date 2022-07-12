@@ -22,3 +22,7 @@ https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Pyt
 
 
 Youtube kanalım: https://www.youtube.com/channel/UCPN1FbcaizQGyb7Bfn7VY4g/featured
+
+
+----------Etiketler----------
+#python #pythonogren #yazilim 
