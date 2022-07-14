@@ -14,7 +14,8 @@ Bir çoğu Sadık Turan eğitim videosundan aldığım notlardır.
 
 Python Kurs: 
 
-https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877
+https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877 
+https://files.btkakademi.gov.tr/76_PYTHON/Dokumanlar.rar
 
 https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
 
