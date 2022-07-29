@@ -32,3 +32,5 @@ Youtube kanalım:
 https://www.youtube.com/channel/UCPN1FbcaizQGyb7Bfn7VY4g/featured
 
 
+Kişisel Notlarım:
+21 Temmuz - 29 Temmuz arasında tatilde olduğum için python kursuna ekleme yapamadım.
