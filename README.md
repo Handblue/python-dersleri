@@ -8,6 +8,8 @@ Dersleri btk akademi, w3schools.com ve youtube üzerinden alıyorum.
 
 Bir çoğu Sadık Turan eğitim videosundan aldığım notlardır.
 
+Kodlar kendi yazdığım kodlar değildir. Sadece başka insanlarda öğrensin diye paylaştığım kodlardır.
+
 
 
 ------------KAYNAKLARIM------------
